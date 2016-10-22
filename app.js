@@ -59,7 +59,7 @@ CustomOverlay.prototype._createDiv = function(point) {
   span.className = 'overlay-span';
   div.appendChild(span);
 
-  console.log(div)
+  console.log(div);
   return div;
 
 };
